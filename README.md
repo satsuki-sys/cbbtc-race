@@ -9,7 +9,7 @@ A long-only trend bot that trades Coinbase Wrapped BTC (cbBTC) against USDC on 1
 ## Run it
 
 ```sh
-python3 main.py
+node main.ts
 ```
 
 ---
